@@ -83,6 +83,8 @@ The `Debug` function will print out the following information:
 - Memory address in decimal, hexadecimal, and binary format
 - Function call stack (if `SFCS` flag is set to True)
 
+### Example usage img ↓
+![Example](Screenshot.png) 
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please submit a pull request or open an issue.
