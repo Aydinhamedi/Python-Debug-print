@@ -13,6 +13,13 @@ No installation is required for this function. Simply copy the code and use it i
 ## Usage
 
 ```python
+#pylibs
+import inspect
+import traceback
+from datetime import datetime
+from PrintColor.Print_color import print_Color
+#global Var
+Debug_m = True
 #Debug
 def Debug(ID, DEBUG_IF, SFL: bool = True, Force: bool = False, SFCS: bool = True):
     """
